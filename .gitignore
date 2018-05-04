@@ -44,3 +44,4 @@ private/KORA/TESTS/*.swp
 !LOGS/
 !USERS/
 !LIVEDATA/
+BINARIES/chatscript.exe
